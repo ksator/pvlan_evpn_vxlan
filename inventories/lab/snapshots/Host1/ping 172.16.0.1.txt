@@ -1,10 +1,10 @@
 PING 172.16.0.1 (172.16.0.1) 72(100) bytes of data.
-80 bytes from 172.16.0.1: icmp_seq=1 ttl=64 time=0.033 ms
-80 bytes from 172.16.0.1: icmp_seq=2 ttl=64 time=0.022 ms
+80 bytes from 172.16.0.1: icmp_seq=1 ttl=64 time=0.035 ms
+80 bytes from 172.16.0.1: icmp_seq=2 ttl=64 time=0.020 ms
 80 bytes from 172.16.0.1: icmp_seq=3 ttl=64 time=0.019 ms
 80 bytes from 172.16.0.1: icmp_seq=4 ttl=64 time=0.019 ms
-80 bytes from 172.16.0.1: icmp_seq=5 ttl=64 time=0.019 ms
+80 bytes from 172.16.0.1: icmp_seq=5 ttl=64 time=0.018 ms
 
 --- 172.16.0.1 ping statistics ---
 5 packets transmitted, 5 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 0.019/0.022/0.033/0.006 ms, ipg/ewma 0.053/0.027 ms
+rtt min/avg/max/mdev = 0.018/0.022/0.035/0.007 ms, ipg/ewma 0.052/0.028 ms

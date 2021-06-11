@@ -2,4 +2,4 @@ BGP summary information for VRF default
 Router identifier 10.0.0.1, local AS number 65002
 Neighbor Status Codes: m - Under maintenance
   Neighbor         V  AS           MsgRcvd   MsgSent  InQ OutQ  Up/Down State   PfxRcd PfxAcc
-  10.0.0.0         4 65001            647       648    0    0 09:05:48 Estab   2      2
+  10.0.0.0         4 65001            661       662    0    0 09:17:17 Estab   2      2

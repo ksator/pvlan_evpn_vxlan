@@ -2,10 +2,10 @@ Ethernet1/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27c2 (bia 444c.a88d.27c2)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -22,10 +22,10 @@ Ethernet1/2 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27c3 (bia 444c.a88d.27c3)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -42,10 +42,10 @@ Ethernet1/3 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27c4 (bia 444c.a88d.27c4)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -62,10 +62,10 @@ Ethernet1/4 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27c5 (bia 444c.a88d.27c5)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -82,10 +82,10 @@ Ethernet2/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27c6 (bia 444c.a88d.27c6)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -102,10 +102,10 @@ Ethernet2/2 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27c7 (bia 444c.a88d.27c7)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -122,10 +122,10 @@ Ethernet2/3 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27c8 (bia 444c.a88d.27c8)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -142,10 +142,10 @@ Ethernet2/4 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27c9 (bia 444c.a88d.27c9)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -162,10 +162,10 @@ Ethernet3/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27ca (bia 444c.a88d.27ca)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -182,10 +182,10 @@ Ethernet3/2 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27cb (bia 444c.a88d.27cb)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -202,10 +202,10 @@ Ethernet3/3 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27cc (bia 444c.a88d.27cc)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -222,10 +222,10 @@ Ethernet3/4 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27cd (bia 444c.a88d.27cd)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -242,10 +242,10 @@ Ethernet4/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27ce (bia 444c.a88d.27ce)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -262,10 +262,10 @@ Ethernet4/2 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27cf (bia 444c.a88d.27cf)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -282,10 +282,10 @@ Ethernet4/3 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27d0 (bia 444c.a88d.27d0)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -302,10 +302,10 @@ Ethernet4/4 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27d1 (bia 444c.a88d.27d1)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -322,10 +322,10 @@ Ethernet5/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27d2 (bia 444c.a88d.27d2)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -342,10 +342,10 @@ Ethernet5/2 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27d3 (bia 444c.a88d.27d3)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -362,10 +362,10 @@ Ethernet5/3 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27d4 (bia 444c.a88d.27d4)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -382,10 +382,10 @@ Ethernet5/4 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27d5 (bia 444c.a88d.27d5)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -404,7 +404,7 @@ Ethernet6/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -423,7 +423,7 @@ Ethernet6/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -442,7 +442,7 @@ Ethernet6/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -461,7 +461,7 @@ Ethernet6/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -480,7 +480,7 @@ Ethernet7/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -499,7 +499,7 @@ Ethernet7/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -518,7 +518,7 @@ Ethernet7/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -537,7 +537,7 @@ Ethernet7/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -556,7 +556,7 @@ Ethernet8/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -575,7 +575,7 @@ Ethernet8/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -594,7 +594,7 @@ Ethernet8/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -613,7 +613,7 @@ Ethernet8/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -632,7 +632,7 @@ Ethernet9/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -651,7 +651,7 @@ Ethernet9/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -670,7 +670,7 @@ Ethernet9/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -689,7 +689,7 @@ Ethernet9/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -708,7 +708,7 @@ Ethernet10/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -727,7 +727,7 @@ Ethernet10/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -746,7 +746,7 @@ Ethernet10/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -765,7 +765,7 @@ Ethernet10/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -784,7 +784,7 @@ Ethernet11/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -803,7 +803,7 @@ Ethernet11/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -822,7 +822,7 @@ Ethernet11/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -841,7 +841,7 @@ Ethernet11/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -860,7 +860,7 @@ Ethernet12/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -879,7 +879,7 @@ Ethernet12/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -898,7 +898,7 @@ Ethernet12/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -917,7 +917,7 @@ Ethernet12/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -934,10 +934,10 @@ Ethernet13/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27f2 (bia 444c.a88d.27f2)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -954,10 +954,10 @@ Ethernet13/2 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27f3 (bia 444c.a88d.27f3)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -974,10 +974,10 @@ Ethernet13/3 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27f4 (bia 444c.a88d.27f4)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -994,10 +994,10 @@ Ethernet13/4 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.27f5 (bia 444c.a88d.27f5)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1016,7 +1016,7 @@ Ethernet14/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1035,7 +1035,7 @@ Ethernet14/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1054,7 +1054,7 @@ Ethernet14/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1073,7 +1073,7 @@ Ethernet14/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1092,7 +1092,7 @@ Ethernet15/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1111,7 +1111,7 @@ Ethernet15/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1130,7 +1130,7 @@ Ethernet15/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1149,7 +1149,7 @@ Ethernet15/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1168,7 +1168,7 @@ Ethernet16/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1187,7 +1187,7 @@ Ethernet16/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1206,7 +1206,7 @@ Ethernet16/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1225,7 +1225,7 @@ Ethernet16/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1244,7 +1244,7 @@ Ethernet17/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1263,7 +1263,7 @@ Ethernet17/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1282,7 +1282,7 @@ Ethernet17/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1301,7 +1301,7 @@ Ethernet17/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1320,7 +1320,7 @@ Ethernet18/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1339,7 +1339,7 @@ Ethernet18/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1358,7 +1358,7 @@ Ethernet18/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1377,7 +1377,7 @@ Ethernet18/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1396,7 +1396,7 @@ Ethernet19/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1415,7 +1415,7 @@ Ethernet19/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1434,7 +1434,7 @@ Ethernet19/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1453,7 +1453,7 @@ Ethernet19/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1472,7 +1472,7 @@ Ethernet20/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1491,7 +1491,7 @@ Ethernet20/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1510,7 +1510,7 @@ Ethernet20/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1529,7 +1529,7 @@ Ethernet20/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1548,7 +1548,7 @@ Ethernet21/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1567,7 +1567,7 @@ Ethernet21/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1586,7 +1586,7 @@ Ethernet21/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1605,7 +1605,7 @@ Ethernet21/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1624,7 +1624,7 @@ Ethernet22/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1643,7 +1643,7 @@ Ethernet22/2 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1662,7 +1662,7 @@ Ethernet22/3 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1681,7 +1681,7 @@ Ethernet22/4 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1698,10 +1698,10 @@ Ethernet23/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.281a (bia 444c.a88d.281a)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1718,10 +1718,10 @@ Ethernet23/2 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.281b (bia 444c.a88d.281b)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1738,10 +1738,10 @@ Ethernet23/3 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.281c (bia 444c.a88d.281c)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1758,10 +1758,10 @@ Ethernet23/4 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.281d (bia 444c.a88d.281d)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1778,10 +1778,10 @@ Ethernet24/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.281e (bia 444c.a88d.281e)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1798,10 +1798,10 @@ Ethernet24/2 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.281f (bia 444c.a88d.281f)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1818,10 +1818,10 @@ Ethernet24/3 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.2820 (bia 444c.a88d.2820)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1838,10 +1838,10 @@ Ethernet24/4 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.2821 (bia 444c.a88d.2821)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1858,10 +1858,10 @@ Ethernet25/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.2822 (bia 444c.a88d.2822)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1878,10 +1878,10 @@ Ethernet26/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.2826 (bia 444c.a88d.2826)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1900,19 +1900,19 @@ Ethernet27/1 is up, line protocol is up (connected)
   Broadcast address is 255.255.255.255
   IP MTU 1500 bytes (default), Ethernet MRU 10200 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: disabled
-  Up 8 hours, 43 minutes, 2 seconds
+  Up 8 hours, 54 minutes, 33 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 530 bps (0.0% with framing overhead), 1 packets/sec
   5 seconds output rate 21 bps (0.0% with framing overhead), 0 packets/sec
-     17060 packets input, 2168289 bytes
-     Received 81 broadcasts, 16587 multicast
+     17537 packets input, 2227076 bytes
+     Received 100 broadcasts, 16952 multicast
      0 runts, 0 giants
      0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
      0 PAUSE input
-     1345 packets output, 239404 bytes
-     Sent 7 broadcasts, 1047 multicast
+     1428 packets output, 250992 bytes
+     Sent 7 broadcasts, 1070 multicast
      0 output errors, 0 collisions
      0 late collision, 0 deferred, 0 output discards
      0 PAUSE output
@@ -1920,10 +1920,10 @@ Ethernet28/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.282e (bia 444c.a88d.282e)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1940,10 +1940,10 @@ Ethernet29/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.2832 (bia 444c.a88d.2832)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1962,7 +1962,7 @@ Ethernet30/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1981,7 +1981,7 @@ Ethernet31/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -2000,7 +2000,7 @@ Ethernet32/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -2019,7 +2019,7 @@ Ethernet33/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -2038,7 +2038,7 @@ Ethernet34/1 is administratively down, line protocol is notpresent (disabled)
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: disabled
   Loopback Mode : None
   0 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -2055,10 +2055,10 @@ Ethernet35/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.284a (bia 444c.a88d.284a)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -2075,10 +2075,10 @@ Ethernet36/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 444c.a88d.284e (bia 444c.a88d.284e)
   Ethernet MTU 10178 bytes, Ethernet MRU 10200 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: disabled
-  Down 9 hours, 20 minutes, 11 seconds
+  Down 9 hours, 31 minutes, 42 seconds
   Loopback Mode : None
   2 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
+  Last clearing of "show interface" counters 9:39:58 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -2097,19 +2097,19 @@ Management1 is up, line protocol is up (connected)
   Broadcast address is 255.255.255.255
   IP MTU 1500 bytes (default), BW 1000000 kbit
   Full-duplex, 1Gb/s, auto negotiation: on, uni-link: n/a
-  Up 9 hours, 24 minutes, 26 seconds
+  Up 9 hours, 35 minutes, 57 seconds
   Loopback Mode : None
   4 link status changes since last clear
-  Last clearing of "show interface" counters 9:28:27 ago
-  5 seconds input rate 15.3 kbps (0.0% with framing overhead), 16 packets/sec
-  5 seconds output rate 13.0 kbps (0.0% with framing overhead), 6 packets/sec
-     284892 packets input, 19461858 bytes
-     Received 278273 broadcasts, 1129 multicast
+  Last clearing of "show interface" counters 9:39:58 ago
+  5 seconds input rate 14.0 kbps (0.0% with framing overhead), 14 packets/sec
+  5 seconds output rate 11.9 kbps (0.0% with framing overhead), 6 packets/sec
+     291559 packets input, 20005359 bytes
+     Received 283819 broadcasts, 1152 multicast
      0 runts, 0 giants
      0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
      0 PAUSE input
-     7041 packets output, 1907533 bytes
-     Sent 36 broadcasts, 1131 multicast
+     8083 packets output, 2461714 bytes
+     Sent 36 broadcasts, 1154 multicast
      0 output errors, 0 collisions
      0 late collision, 0 deferred, 0 output discards
      0 PAUSE output

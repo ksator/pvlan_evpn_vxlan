@@ -140,9 +140,7 @@ interface Ethernet32/1
    shutdown
 !
 interface Ethernet33
-   switchport access vlan 10
    no switchport
-   switchport pvlan mapping 1-11,13
    ip address 10.0.0.0/31
 !
 interface Ethernet34

@@ -1,10 +1,10 @@
 VRF: default
 Address         Age (sec)  Hardware Addr   Interface
-172.16.0.1        0:47:14  985d.82b4.ccf5  Ethernet27/1
-172.16.0.3        0:56:50  985d.82b4.ca61  Ethernet27/1
-172.16.0.254      2:08:51  001c.7300.dc01  Ethernet27/1
+172.16.0.1        0:58:46  985d.82b4.ccf5  Ethernet27/1
+172.16.0.3        1:08:22  985d.82b4.ca61  Ethernet27/1
+172.16.0.254      2:20:23  001c.7300.dc01  Ethernet27/1
 10.83.28.1        0:00:00  001b.1700.2011  Management1
-10.83.28.52       0:03:51  0011.326e.e2f0  Management1
-10.83.28.54       0:02:21  0050.5686.805a  Management1
-10.83.29.224      0:01:21  0050.5686.3244  Management1
-10.83.30.212      0:04:48  0050.5686.fdc0  Management1
+10.83.28.52       0:00:28  0011.326e.e2f0  Management1
+10.83.28.54       0:04:16  0050.5686.805a  Management1
+10.83.29.224      0:02:58  0050.5686.3244  Management1
+10.83.30.212      0:01:34  0050.5686.fdc0  Management1

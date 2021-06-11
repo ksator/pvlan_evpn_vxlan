@@ -4,9 +4,9 @@ Mac Address Table
 Vlan    Mac Address       Type        Ports      Moves   Last Move
 ----    -----------       ----        -----      -----   ---------
   10    001c.7300.dc01    STATIC      Router
-  10    444c.a88d.27c1    DYNAMIC     Et53/1     1       0:01:50 ago
-  10    985d.82b4.ca61    DYNAMIC     Vx1        1       0:01:49 ago
-  10    985d.82b4.ccf5    DYNAMIC     Vx1        1       0:01:50 ago
+  10    444c.a88d.27c1    DYNAMIC     Et53/1     1       0:13:18 ago
+  10    985d.82b4.ca61    DYNAMIC     Vx1        1       0:03:58 ago
+  10    985d.82b4.ccf5    DYNAMIC     Vx1        1       0:03:58 ago
 Total Mac Addresses for this criterion: 4
 
           Multicast Mac Address Table

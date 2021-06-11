@@ -4,19 +4,19 @@ Ethernet1 is up, line protocol is up (connected)
   Broadcast address is 255.255.255.255
   IP MTU 1500 bytes (default), BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
-  Up 9 hours, 52 minutes, 21 seconds
+  Up 10 hours, 3 minutes, 49 seconds
   Loopback Mode : None
   4 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
-  5 seconds input rate 54 bps (0.0% with framing overhead), 0 packets/sec
-  5 seconds output rate 80 bps (0.0% with framing overhead), 0 packets/sec
-     5333 packets input, 679562 bytes
-     Received 5 broadcasts, 2344 multicast
+  Last clearing of "show interface" counters 10:07:11 ago
+  5 seconds input rate 151 bps (0.0% with framing overhead), 0 packets/sec
+  5 seconds output rate 173 bps (0.0% with framing overhead), 0 packets/sec
+     5506 packets input, 704285 bytes
+     Received 5 broadcasts, 2367 multicast
      0 runts, 0 giants
      0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
      0 PAUSE input
-     4346 packets output, 517663 bytes
-     Sent 114 broadcasts, 1196 multicast
+     4517 packets output, 541858 bytes
+     Sent 114 broadcasts, 1219 multicast
      0 output errors, 0 collisions
      0 late collision, 0 deferred, 0 output discards
      0 PAUSE output
@@ -24,10 +24,10 @@ Ethernet2 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b05 (bia 985d.82c1.6b05)
   Ethernet MTU 9214 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 53 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -44,10 +44,10 @@ Ethernet3 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b06 (bia 985d.82c1.6b06)
   Ethernet MTU 9214 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 53 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -64,10 +64,10 @@ Ethernet4 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b07 (bia 985d.82c1.6b07)
   Ethernet MTU 9214 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 53 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -84,10 +84,10 @@ Ethernet5 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b08 (bia 985d.82c1.6b08)
   Ethernet MTU 9214 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 53 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -104,10 +104,10 @@ Ethernet6 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b09 (bia 985d.82c1.6b09)
   Ethernet MTU 9214 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 53 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -124,10 +124,10 @@ Ethernet7 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b0a (bia 985d.82c1.6b0a)
   Ethernet MTU 9214 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 53 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -144,10 +144,10 @@ Ethernet8 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b0b (bia 985d.82c1.6b0b)
   Ethernet MTU 9214 bytes, BW 10000000 kbit
   Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 53 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -164,10 +164,10 @@ Ethernet9 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b0c (bia 985d.82c1.6b0c)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -184,10 +184,10 @@ Ethernet10 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b0d (bia 985d.82c1.6b0d)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -204,10 +204,10 @@ Ethernet11 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b0e (bia 985d.82c1.6b0e)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -224,10 +224,10 @@ Ethernet12 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b0f (bia 985d.82c1.6b0f)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -244,10 +244,10 @@ Ethernet13 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b10 (bia 985d.82c1.6b10)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -264,10 +264,10 @@ Ethernet14 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b11 (bia 985d.82c1.6b11)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -284,10 +284,10 @@ Ethernet15 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b12 (bia 985d.82c1.6b12)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -304,10 +304,10 @@ Ethernet16 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b13 (bia 985d.82c1.6b13)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -324,10 +324,10 @@ Ethernet17 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b14 (bia 985d.82c1.6b14)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -344,10 +344,10 @@ Ethernet18 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b15 (bia 985d.82c1.6b15)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -364,10 +364,10 @@ Ethernet19 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b16 (bia 985d.82c1.6b16)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -384,10 +384,10 @@ Ethernet20 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b17 (bia 985d.82c1.6b17)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -404,10 +404,10 @@ Ethernet21 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b18 (bia 985d.82c1.6b18)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -424,10 +424,10 @@ Ethernet22 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b19 (bia 985d.82c1.6b19)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -444,10 +444,10 @@ Ethernet23 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b1a (bia 985d.82c1.6b1a)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -464,10 +464,10 @@ Ethernet24 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b1b (bia 985d.82c1.6b1b)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -484,10 +484,10 @@ Ethernet25 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b1c (bia 985d.82c1.6b1c)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -504,10 +504,10 @@ Ethernet26 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b1d (bia 985d.82c1.6b1d)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -524,10 +524,10 @@ Ethernet27 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b1e (bia 985d.82c1.6b1e)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -544,10 +544,10 @@ Ethernet28 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b1f (bia 985d.82c1.6b1f)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -564,10 +564,10 @@ Ethernet29 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b20 (bia 985d.82c1.6b20)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -584,10 +584,10 @@ Ethernet30 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b21 (bia 985d.82c1.6b21)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -604,10 +604,10 @@ Ethernet31 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b22 (bia 985d.82c1.6b22)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -624,10 +624,10 @@ Ethernet32 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b23 (bia 985d.82c1.6b23)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -644,10 +644,10 @@ Ethernet33 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b24 (bia 985d.82c1.6b24)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -664,10 +664,10 @@ Ethernet34 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b25 (bia 985d.82c1.6b25)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -684,10 +684,10 @@ Ethernet35 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b26 (bia 985d.82c1.6b26)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -704,10 +704,10 @@ Ethernet36 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b27 (bia 985d.82c1.6b27)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -724,10 +724,10 @@ Ethernet37 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b28 (bia 985d.82c1.6b28)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -744,10 +744,10 @@ Ethernet38 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b29 (bia 985d.82c1.6b29)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -764,10 +764,10 @@ Ethernet39 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b2a (bia 985d.82c1.6b2a)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -784,10 +784,10 @@ Ethernet40 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b2b (bia 985d.82c1.6b2b)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -804,10 +804,10 @@ Ethernet41 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b2c (bia 985d.82c1.6b2c)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -824,10 +824,10 @@ Ethernet42 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b2d (bia 985d.82c1.6b2d)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -844,10 +844,10 @@ Ethernet43 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b2e (bia 985d.82c1.6b2e)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -864,10 +864,10 @@ Ethernet44 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b2f (bia 985d.82c1.6b2f)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -884,10 +884,10 @@ Ethernet45 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b30 (bia 985d.82c1.6b30)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -904,10 +904,10 @@ Ethernet46 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b31 (bia 985d.82c1.6b31)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -924,10 +924,10 @@ Ethernet47 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b32 (bia 985d.82c1.6b32)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -944,10 +944,10 @@ Ethernet48 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b33 (bia 985d.82c1.6b33)
   Ethernet MTU 9214 bytes, BW 25000000 kbit
   Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 53 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -964,10 +964,10 @@ Ethernet49/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b34 (bia 985d.82c1.6b34)
   Ethernet MTU 9214 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 53 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:11 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -984,10 +984,10 @@ Ethernet50/1 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b38 (bia 985d.82c1.6b38)
   Ethernet MTU 9214 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:12 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1004,10 +1004,10 @@ Ethernet51/1 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b3c (bia 985d.82c1.6b3c)
   Ethernet MTU 9214 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:12 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1024,10 +1024,10 @@ Ethernet52/1 is administratively down, line protocol is notpresent (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b40 (bia 985d.82c1.6b40)
   Ethernet MTU 9214 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 54 seconds
   Loopback Mode : None
   1 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:12 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1044,19 +1044,19 @@ Ethernet53/1 is up, line protocol is up (connected)
   Hardware is Ethernet, address is 985d.82c1.6b44 (bia 985d.82c1.6b44)
   Ethernet MTU 9214 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
-  Up 8 hours, 43 minutes, 5 seconds
+  Up 8 hours, 54 minutes, 33 seconds
   Loopback Mode : None
   4 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
-  5 seconds input rate 268 bps (0.0% with framing overhead), 0 packets/sec
-  5 seconds output rate 769 bps (0.0% with framing overhead), 1 packets/sec
-     1346 packets input, 239600 bytes
-     Received 7 broadcasts, 1048 multicast
+  Last clearing of "show interface" counters 10:07:12 ago
+  5 seconds input rate 14 bps (0.0% with framing overhead), 0 packets/sec
+  5 seconds output rate 517 bps (0.0% with framing overhead), 1 packets/sec
+     1428 packets input, 250992 bytes
+     Received 7 broadcasts, 1070 multicast
      0 runts, 0 giants
      0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
      0 PAUSE input
-     17063 packets output, 2168732 bytes
-     Sent 81 broadcasts, 16590 multicast
+     17538 packets output, 2227199 bytes
+     Sent 100 broadcasts, 16953 multicast
      0 output errors, 0 collisions
      0 late collision, 0 deferred, 0 output discards
      0 PAUSE output
@@ -1064,10 +1064,10 @@ Ethernet54/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b48 (bia 985d.82c1.6b48)
   Ethernet MTU 9214 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 53 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:12 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1084,10 +1084,10 @@ Ethernet55/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b4c (bia 985d.82c1.6b4c)
   Ethernet MTU 9214 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 53 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:12 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1104,10 +1104,10 @@ Ethernet56/1 is administratively down, line protocol is down (disabled)
   Hardware is Ethernet, address is 985d.82c1.6b50 (bia 985d.82c1.6b50)
   Ethernet MTU 9214 bytes, BW 100000000 kbit
   Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
-  Down 9 hours, 52 minutes, 25 seconds
+  Down 10 hours, 3 minutes, 53 seconds
   Loopback Mode : None
   3 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
+  Last clearing of "show interface" counters 10:07:12 ago
   5 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
   5 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
      0 packets input, 0 bytes
@@ -1125,32 +1125,32 @@ Loopback0 is up, line protocol is up (connected)
   Internet address is 10.2.0.2/32
   Broadcast address is 255.255.255.255
   IP MTU 65535 bytes (default)
-  Up 9 hours, 22 minutes, 47 seconds
+  Up 9 hours, 34 minutes, 15 seconds
 Loopback1 is up, line protocol is up (connected)
   Hardware is Loopback
   Internet address is 10.2.1.2/32
   Broadcast address is 255.255.255.255
   IP MTU 65535 bytes (default)
-  Up 9 hours, 22 minutes, 28 seconds
+  Up 9 hours, 33 minutes, 57 seconds
 Management1 is up, line protocol is up (connected)
   Hardware is Ethernet, address is 985d.82c1.6b02 (bia 985d.82c1.6b02)
   Internet address is 10.83.28.207/22
   Broadcast address is 255.255.255.255
   IP MTU 1500 bytes (default), BW 1000000 kbit
   Full-duplex, 1Gb/s, auto negotiation: on, uni-link: n/a
-  Up 9 hours, 52 minutes, 57 seconds
+  Up 10 hours, 4 minutes, 25 seconds
   Loopback Mode : None
   4 link status changes since last clear
-  Last clearing of "show interface" counters 9:55:43 ago
-  5 seconds input rate 16.7 kbps (0.0% with framing overhead), 18 packets/sec
-  5 seconds output rate 21.2 kbps (0.0% with framing overhead), 7 packets/sec
-     300561 packets input, 20522823 bytes
-     Received 293410 broadcasts, 1187 multicast
+  Last clearing of "show interface" counters 10:07:12 ago
+  5 seconds input rate 16.9 kbps (0.0% with framing overhead), 17 packets/sec
+  5 seconds output rate 22.9 kbps (0.0% with framing overhead), 8 packets/sec
+     307128 packets input, 21059543 bytes
+     Received 298928 broadcasts, 1210 multicast
      0 runts, 0 giants
      0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
      0 PAUSE input
-     7489 packets output, 1638965 bytes
-     Sent 40 broadcasts, 1191 multicast
+     8406 packets output, 2046066 bytes
+     Sent 43 broadcasts, 1214 multicast
      0 output errors, 0 collisions
      0 late collision, 0 deferred, 0 output discards
      0 PAUSE output
@@ -1159,7 +1159,7 @@ Vlan10 is up, line protocol is up (connected)
   Internet address is virtual 172.16.0.254/24
   Broadcast address is 255.255.255.255
   IP MTU 1500 bytes (default)
-  Up 9 hours, 21 minutes, 55 seconds
+  Up 9 hours, 33 minutes, 23 seconds
 Vxlan1 is up, line protocol is up (connected)
   Hardware is Vxlan
   Source interface is Loopback1 and is active with 10.2.1.2
