@@ -1,6 +1,8 @@
-This repository has PVLANs accross EVPN-VXLAN details for EOS devices:
-- [configuration files](inventories/lab/intended/configs)
-- [show commands](inventories/lab/snapshots)
+This repository has:
+- PVLANs accross EVPN-VXLAN [technical presentation](PVLAN_EVPN_VXLAN.pptx)
+- PVLANs accross EVPN-VXLAN [configuration details](inventories/lab/intended/configs) and [show commands](inventories/lab/snapshots) for EOS devices
+
+Here's the topology details:
 
 ![lab.png](lab.png)
 
@@ -18,7 +20,7 @@ EVPN-VXLAN:
 - s72811 (host2)
 - s70513 (host3)
 
-[lab inventory](inventories/lab/inventory.ini)  
+Here's the lab [inventory](inventories/lab/inventory.ini)
 
 ```
 ansible-playbook playbooks/print_version_and_model.yml -i inventories/lab/inventory.ini
