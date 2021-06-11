@@ -1,4 +1,4 @@
-This repository has PVLANs accross EVPN-VXLAN details for EOS devices: 
+This repository has PVLANs accross EVPN-VXLAN details for EOS devices:
 - configuration files
 - show commands
 
@@ -65,5 +65,4 @@ run show version on EOS devices ------------------------------------------------
 Print some details regarding EOS devices --------------------------------------------------------------- 3.94s
 Playbook run took 0 days, 0 hours, 0 minutes, 14 seconds
 ---------------------------------------------------------------------------------------------------------------
-~/Projects/git_projects/pvlan(master*) »
 ```
