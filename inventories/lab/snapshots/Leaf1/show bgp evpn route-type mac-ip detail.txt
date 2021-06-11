@@ -1,1 +1,44 @@
-not supported command
+BGP routing table information for VRF default
+Router identifier 10.1.1.1, local AS number 65001
+BGP routing table entry for mac-ip 444c.a88d.27c1, Route Distinguisher: 10.2.0.2:10
+ Paths: 1 available
+  65002
+    10.2.1.2 from 10.2.0.2 (10.0.0.1)
+      Origin IGP, metric -, localpref 100, weight 0, valid, external, best
+      Extended Community: Route-Target-AS:10:10 TunnelEncap:tunnelTypeVxlan
+      VNI: 10 ESI: 0000:0000:0000:0000:0000
+BGP routing table entry for mac-ip 444c.a88d.27c1 172.16.0.2, Route Distinguisher: 10.2.0.2:10
+ Paths: 1 available
+  65002
+    10.2.1.2 from 10.2.0.2 (10.0.0.1)
+      Origin IGP, metric -, localpref 100, weight 0, valid, external, best
+      Extended Community: Route-Target-AS:10:10 TunnelEncap:tunnelTypeVxlan
+      VNI: 10 ESI: 0000:0000:0000:0000:0000
+BGP routing table entry for mac-ip 985d.82b4.ca61, Route Distinguisher: 10.1.0.1:10
+ Paths: 1 available
+  Local
+    - from - (0.0.0.0)
+      Origin IGP, metric -, localpref -, weight 0, valid, local, best
+      Extended Community: Route-Target-AS:10:10 TunnelEncap:tunnelTypeVxlan
+      VNI: 10 ESI: 0000:0000:0000:0000:0000
+BGP routing table entry for mac-ip 985d.82b4.ca61 172.16.0.3, Route Distinguisher: 10.1.0.1:10
+ Paths: 1 available
+  Local
+    - from - (0.0.0.0)
+      Origin IGP, metric -, localpref -, weight 0, valid, local, best
+      Extended Community: Route-Target-AS:10:10 TunnelEncap:tunnelTypeVxlan
+      VNI: 10 ESI: 0000:0000:0000:0000:0000
+BGP routing table entry for mac-ip 985d.82b4.ccf5, Route Distinguisher: 10.1.0.1:10
+ Paths: 1 available
+  Local
+    - from - (0.0.0.0)
+      Origin IGP, metric -, localpref -, weight 0, valid, local, best
+      Extended Community: Route-Target-AS:10:10 TunnelEncap:tunnelTypeVxlan
+      VNI: 10 ESI: 0000:0000:0000:0000:0000
+BGP routing table entry for mac-ip 985d.82b4.ccf5 172.16.0.1, Route Distinguisher: 10.1.0.1:10
+ Paths: 1 available
+  Local
+    - from - (0.0.0.0)
+      Origin IGP, metric -, localpref -, weight 0, valid, local, best
+      Extended Community: Route-Target-AS:10:10 TunnelEncap:tunnelTypeVxlan
+      VNI: 10 ESI: 0000:0000:0000:0000:0000

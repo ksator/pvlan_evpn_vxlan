@@ -14,6 +14,9 @@ output_format:
   - text
 
 commands_list:
+  - ping 172.16.0.1
+  - ping 172.16.0.2
+  - ping 172.16.0.3
   - show lldp neighbors
   - show ip interface brief
   - show interfaces status
@@ -28,10 +31,9 @@ commands_list:
   - show bgp evpn route-type imet
   - show bgp evpn route-type imet detail
   - show bgp evpn route-type mac-ip detail
-  - ping 172.16.0.1
-  - ping 172.16.0.2
-  - ping 172.16.0.3
   - show interfaces
+  - show vxlan flood vtep
+  - show vxlan address-table
 
 
 
