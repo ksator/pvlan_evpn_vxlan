@@ -1,0 +1,5 @@
+Address 
+Interface        IP Address          Status     Protocol         MTU    Owner   
+---------------- ------------------- ---------- ------------- --------- ------- 
+Ethernet28/1     172.16.0.3/24       up         up              1500            
+Management1      10.83.28.219/22     up         up              1500

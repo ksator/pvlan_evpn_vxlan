@@ -1,0 +1,42 @@
+---
+ansible_connection: httpapi
+ansible_httpapi_port: 443
+ansible_httpapi_host: '{{ ansible_host }}'
+ansible_httpapi_use_ssl: true
+ansible_httpapi_validate_certs: false
+ansible_network_os: eos
+ansible_user: admin
+ansible_ssh_pass:
+ansible_become: yes
+ansible_become_method: enable
+
+output_format:
+  - text
+
+commands_list:
+  - show lldp neighbors
+  - show ip interface brief
+  - show interfaces status
+  - show version
+  - show running-config
+  - show ip bgp summary
+  - show bgp evpn summary
+  - show vlan
+  - show vlan private-vlan
+  - show arp vrf all
+  - show mac address-table
+  - show bgp evpn route-type imet
+  - show bgp evpn route-type imet detail
+  - show bgp evpn route-type mac-ip detail
+  - ping 172.16.0.1
+  - ping 172.16.0.2
+  - ping 172.16.0.3
+  - show interfaces
+
+
+
+
+
+
+
+

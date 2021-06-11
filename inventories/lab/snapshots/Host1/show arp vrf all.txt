@@ -1,0 +1,8 @@
+VRF: default
+Address         Age (sec)  Hardware Addr   Interface
+172.16.0.2        0:04:37  444c.a88d.27c1  Ethernet28/1
+172.16.0.254      0:25:28  001c.7300.dc01  Ethernet28/1
+10.83.28.1        0:00:00  001b.1700.2011  Management1
+10.83.28.52       0:00:50  0011.326e.e2f0  Management1
+10.83.28.54       0:03:26  0050.5686.805a  Management1
+10.83.29.224      0:03:44  0050.5686.3244  Management1

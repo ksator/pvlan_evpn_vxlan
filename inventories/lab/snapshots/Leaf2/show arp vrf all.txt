@@ -1,0 +1,11 @@
+VRF: default
+Address         Age (sec)  Hardware Addr   Interface
+10.0.0.0          0:00:05  985d.82b4.ddf9  Ethernet1
+172.16.0.1              -  985d.82b4.ccf5  Vlan10, Vxlan1
+172.16.0.2        0:24:56  444c.a88d.27c1  Vlan10, Ethernet53/1
+172.16.0.3              -  985d.82b4.ca61  Vlan10, Vxlan1
+10.83.28.1        0:00:00  001b.1700.2011  Management1
+10.83.28.52       0:04:33  0011.326e.e2f0  Management1
+10.83.28.54       0:04:51  0050.5686.805a  Management1
+10.83.29.224      0:01:33  0050.5686.3244  Management1
+10.83.30.212      0:03:30  0050.5686.fdc0  Management1

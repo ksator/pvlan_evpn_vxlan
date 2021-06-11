@@ -1,0 +1,20 @@
+---
+- name: Update intended configuration
+  hosts: lab
+  gather_facts: false
+
+  tasks:
+    - name: Create intended directory
+      file:
+        path: "{{ inventory_dir }}/intended/configs"
+        state: directory
+      delegate_to: localhost
+      run_once: true
+
+    - name: Copy running configuration file from the snapshot dir to the intended dir
+      ansible.builtin.copy:
+        src: "{{ inventory_dir }}/snapshots/{{ inventory_hostname }}/show running-config.txt"
+        dest: "{{ inventory_dir }}/intended/configs/{{ inventory_hostname }}.cfg"
+
+
+

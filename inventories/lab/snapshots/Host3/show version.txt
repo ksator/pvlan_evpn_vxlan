@@ -1,0 +1,14 @@
+Arista DCS-7050CX3-32S-F
+Hardware version: 11.00
+Serial number: JPE18501769
+Hardware MAC address: 985d.82b4.ca61
+System MAC address: 985d.82b4.ca61
+
+Software image version: 4.26.0.1F
+Architecture: i686
+Internal build version: 4.26.0.1F-21994874.42601F
+Internal build ID: 636aad4f-c1b5-4d24-8b4f-79dce783d3ae
+
+Uptime: 0 weeks, 2 days, 6 hours and 52 minutes
+Total memory: 8099008 kB
+Free memory: 6310404 kB

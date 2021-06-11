@@ -1,0 +1,162 @@
+! Command: show running-config
+! device: Host1 (DCS-7050CX3-32S, EOS-4.25.3M)
+!
+! boot system flash:/EOS-4.25.3M.swi
+!
+daemon TerminAttr
+   exec /usr/bin/TerminAttr -ingestgrpcurl=10.83.29.224:9910 -taillogs -ingestauth=key,IngestKey -smashexcludes=ale,flexCounter,hardware,kni,pulse,strata -ingestexclude=/Sysdb/cell/1/agent,/Sysdb/cell/2/agent
+   no shutdown
+!
+transceiver qsfp default-mode 4x10G
+!
+service routing protocols model ribd
+!
+logging host 10.83.28.52 514
+!
+hostname Host1
+ip name-server vrf default 10.83.28.52
+ip name-server vrf default 10.83.29.222
+dns domain lab.local
+!
+ntp server 10.83.28.52
+!
+snmp-server community private rw
+snmp-server community public ro
+!
+spanning-tree mode mstp
+!
+aaa authorization exec default local
+!
+no aaa root
+aaa authentication policy local allow-nopassword-remote-login
+!
+username admin privilege 15 role network-admin nopassword
+username cvp-infra privilege 15 secret sha512 $6$.I7/ZR/zlLIUv8fr$vR/JvLTbq5amMt6Y1SE4CKlPDv/AzJYlFYHkUZ17BDovm0Oi4aLdBULe1EmZ0Y9xKjVLMKpxCSKmlrAioDxbQ0
+username cvpadmin privilege 15 role network-admin secret sha512 $6$nghfNe5dF5G7lXXg$cF7vlXd1MLFvSgJC1cKLOxEUS81vLDECqAs//2iS4uxcbwULp2VjmwOQf.9zYcCygea1wulIrWQARLD6vR/0G.
+username switch-infra privilege 15 nopassword
+username telemetry secret 5 $1$7ksxaeUt$.JJMVbNtjZVxakZqvo0dy1
+!
+interface Ethernet1/1
+   shutdown
+!
+interface Ethernet2/1
+   shutdown
+!
+interface Ethernet3/1
+   shutdown
+!
+interface Ethernet4/1
+   shutdown
+!
+interface Ethernet5/1
+   shutdown
+!
+interface Ethernet6/1
+   shutdown
+!
+interface Ethernet7/1
+   shutdown
+!
+interface Ethernet8/1
+   shutdown
+!
+interface Ethernet9/1
+   shutdown
+!
+interface Ethernet10/1
+   shutdown
+!
+interface Ethernet11/1
+   shutdown
+!
+interface Ethernet12/1
+   shutdown
+!
+interface Ethernet13/1
+   shutdown
+!
+interface Ethernet14/1
+   shutdown
+!
+interface Ethernet15/1
+   shutdown
+!
+interface Ethernet16/1
+   shutdown
+!
+interface Ethernet17/1
+   shutdown
+!
+interface Ethernet18/1
+   shutdown
+!
+interface Ethernet19/1
+   shutdown
+!
+interface Ethernet20/1
+   shutdown
+!
+interface Ethernet21/1
+   shutdown
+!
+interface Ethernet22/1
+   shutdown
+!
+interface Ethernet23/1
+   shutdown
+!
+interface Ethernet24/1
+   shutdown
+!
+interface Ethernet25/1
+   shutdown
+!
+interface Ethernet26/1
+   shutdown
+!
+interface Ethernet27/1
+   shutdown
+!
+interface Ethernet28/1
+   no switchport
+   ip address 172.16.0.1/24
+!
+interface Ethernet29/1
+   shutdown
+!
+interface Ethernet30/1
+   shutdown
+!
+interface Ethernet31/1
+   shutdown
+!
+interface Ethernet31/2
+   shutdown
+!
+interface Ethernet31/3
+   shutdown
+!
+interface Ethernet31/4
+   shutdown
+!
+interface Ethernet32/1
+   shutdown
+!
+interface Ethernet33
+   shutdown
+!
+interface Ethernet34
+   shutdown
+!
+interface Management1
+   ip address 10.83.28.220/22
+!
+ip routing
+!
+ip route 0.0.0.0/0 10.83.28.1
+!
+management api http-commands
+   protocol http
+   no shutdown
+!
+end

@@ -1,0 +1,12 @@
+---
+- name: Configuration deployment with eAPI
+  hosts: lab
+  gather_facts: false
+
+  vars:
+    root_dir: '{{ inventory_dir }}'
+  tasks:
+    - name: replace running configuration with intended configuration
+      eos_config:
+        src: "{{ inventory_dir }}/intended/configs/{{ inventory_hostname }}.cfg"
+        replace: config

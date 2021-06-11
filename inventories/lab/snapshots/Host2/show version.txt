@@ -1,0 +1,14 @@
+Arista DCS-7280QR-C36-M-F
+Hardware version: 01.10
+Serial number: JPE16193769
+Hardware MAC address: 444c.a88d.27c1
+System MAC address: 444c.a88d.27c1
+
+Software image version: 4.25.2F
+Architecture: i686
+Internal build version: 4.25.2F-20711308.4252F
+Internal build ID: d314b2cb-9b28-4b3b-a39c-7d8238d8602d
+
+Uptime: 0 weeks, 0 days, 4 hours and 6 minutes
+Total memory: 32813280 kB
+Free memory: 30228564 kB

@@ -1,0 +1,39 @@
+Port       Name   Status       Vlan     Duplex Speed  Type         Flags Encapsulation
+Et1/1             disabled     1        full   100G   Not Present                     
+Et2/1             disabled     1        full   100G   Not Present                     
+Et3/1             disabled     1        full   100G   Not Present                     
+Et4/1             disabled     1        full   100G   Not Present                     
+Et5/1             disabled     1        full   100G   Not Present                     
+Et6/1             disabled     1        full   100G   Not Present                     
+Et7/1             disabled     1        full   100G   Not Present                     
+Et8/1             disabled     1        full   100G   Not Present                     
+Et9/1             disabled     1        full   100G   Not Present                     
+Et10/1            disabled     1        full   100G   Not Present                     
+Et11/1            disabled     1        full   100G   Not Present                     
+Et12/1            disabled     1        full   100G   Not Present                     
+Et13/1            disabled     1        full   100G   Not Present                     
+Et14/1            disabled     1        full   100G   Not Present                     
+Et15/1            disabled     1        full   100G   Not Present                     
+Et16/1            disabled     1        full   100G   Not Present                     
+Et17/1            disabled     1        full   100G   Not Present                     
+Et18/1            disabled     1        full   100G   Not Present                     
+Et19/1            disabled     1        full   100G   Not Present                     
+Et20/1            disabled     1        full   100G   Not Present                     
+Et21/1            disabled     1        full   100G   Not Present                     
+Et22/1            disabled     1        full   100G   Not Present                     
+Et23/1            disabled     1        full   100G   Not Present                     
+Et24/1            disabled     1        full   100G   Not Present                     
+Et25/1            disabled     1        full   100G   Not Present                     
+Et26/1            disabled     1        full   100G   Not Present                     
+Et27/1            disabled     1        full   100G   100GBASE-AR4                    
+Et28/1            connected    routed   full   100G   100GBASE-CR4                    
+Et29/1            disabled     1        full   100G   Not Present                     
+Et30/1            disabled     1        full   100G   Not Present                     
+Et31/1            disabled     1        full   10G    40GBASE-AR4                     
+Et31/2            disabled     1        full   10G    40GBASE-AR4                     
+Et31/3            disabled     1        full   10G    40GBASE-AR4                     
+Et31/4            disabled     1        full   10G    40GBASE-AR4                     
+Et32/1            disabled     1        full   100G   Not Present                     
+Et33              disabled     1        full   10G    25GBASE-AR                      
+Et34              disabled     1        full   10G    Not Present                     
+Ma1               connected    routed   a-full a-1G   10/100/1000
