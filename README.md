@@ -1,6 +1,9 @@
 This repository has:
 - PVLANs accross EVPN-VXLAN [technical presentation](PVLAN_EVPN_VXLAN.pptx)
-- PVLANs accross EVPN-VXLAN [configuration details](inventories/lab/intended/configs) and [show commands](inventories/lab/snapshots) for EOS devices
+- PVLANs accross EVPN-VXLAN configuration details and show commands output for EOS devices for diff labs:
+  - [pvlan_accross_evpn_vxlan](inventories/pvlan_accross_evpn_vxlan)
+  - [Secondary_VLAN_trunk](inventories/Secondary_VLAN_trunk)
+  - [Promiscuous_Trunk_Workaround](inventories/Promiscuous_Trunk_Workaround)
 
 Here's the topology details:
 
@@ -11,6 +14,8 @@ EVPN-VXLAN:
 - Overlay: EBGP (Lo0)
 - VXLAN: Lo1
 
+Here's the lab [inventory](inventories/lab/inventory.ini)
+
 2 VTEP:
 - s70512 (Leaf2)
 - s70515 (Leaf1)
@@ -20,7 +25,6 @@ EVPN-VXLAN:
 - s72811 (host2)
 - s70513 (host3)
 
-Here's the lab [inventory](inventories/lab/inventory.ini)
 
 ```
 ansible-playbook playbooks/print_version_and_model.yml -i inventories/pvlan_accross_evpn_vxlan/inventory.ini
