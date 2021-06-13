@@ -23,7 +23,7 @@ EVPN-VXLAN:
 Here's the lab [inventory](inventories/lab/inventory.ini)
 
 ```
-ansible-playbook playbooks/print_version_and_model.yml -i inventories/lab/inventory.ini
+ansible-playbook playbooks/print_version_and_model.yml -i inventories/pvlan_accross_evpn_vxlan/inventory.ini
 
 PLAY [print EOS version and HW model] *************************************************************************
 

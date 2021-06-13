@@ -1,0 +1,9 @@
+VLAN  Name                             Status    Ports
+----- -------------------------------- --------- -------------------------------
+1     default                          active    
+10    VLAN0010                         active    Cpu, Et27/1+, Et28/1, Vx1
+11    VLAN0011                         active    Cpu, Et27/1, Et28/1+, Vx1
+12    VLAN0012                         active    Cpu, Et28/1+, Vx1
+13    VLAN0013                         active    Cpu, Et28/1+, Vx1
+
++ indicates a private VLAN promoted port

@@ -1,0 +1,7 @@
+VLAN  Name                             Status    Ports
+----- -------------------------------- --------- -------------------------------
+1     default                          active    Et53/1
+10    VLAN0010                         active    Cpu, Et53/1, Vx1
+11    VLAN0011                         active    Et53/1, Vx1
+12    VLAN0012                         active    Et53/1, Vx1
+13    VLAN0013                         active    Et53/1, Vx1

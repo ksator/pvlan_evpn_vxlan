@@ -1,0 +1,4 @@
+VLAN  Name                             Status    Ports
+----- -------------------------------- --------- -------------------------------
+1     default                          active    Et27/1
+10    VLAN0010                         active    Cpu, Et27/1

@@ -1,0 +1,66 @@
+BGP routing table information for VRF default
+Router identifier 10.0.0.1, local AS number 65002
+BGP routing table entry for imet 10.1.1.1, Route Distinguisher: 10.1.0.1:10
+ Paths: 1 available
+  65001
+    10.1.1.1 from 10.1.0.1 (10.1.1.1)
+      Origin IGP, metric -, localpref 100, weight 0, valid, external, best
+      Extended Community: Route-Target-AS:10:10 TunnelEncap:tunnelTypeVxlan
+      VNI: 10
+      PMSI Tunnel: Ingress Replication, MPLS Label: 10, Leaf Information Required: false, Tunnel ID: 10.1.1.1
+BGP routing table entry for imet 10.1.1.1, Route Distinguisher: 10.1.0.1:11
+ Paths: 1 available
+  65001
+    10.1.1.1 from 10.1.0.1 (10.1.1.1)
+      Origin IGP, metric -, localpref 100, weight 0, valid, external, best
+      Extended Community: Route-Target-AS:11:11 TunnelEncap:tunnelTypeVxlan
+      VNI: 11
+      PMSI Tunnel: Ingress Replication, MPLS Label: 11, Leaf Information Required: false, Tunnel ID: 10.1.1.1
+BGP routing table entry for imet 10.1.1.1, Route Distinguisher: 10.1.0.1:12
+ Paths: 1 available
+  65001
+    10.1.1.1 from 10.1.0.1 (10.1.1.1)
+      Origin IGP, metric -, localpref 100, weight 0, valid, external, best
+      Extended Community: Route-Target-AS:12:12 TunnelEncap:tunnelTypeVxlan
+      VNI: 12
+      PMSI Tunnel: Ingress Replication, MPLS Label: 12, Leaf Information Required: false, Tunnel ID: 10.1.1.1
+BGP routing table entry for imet 10.1.1.1, Route Distinguisher: 10.1.0.1:13
+ Paths: 1 available
+  65001
+    10.1.1.1 from 10.1.0.1 (10.1.1.1)
+      Origin IGP, metric -, localpref 100, weight 0, valid, external, best
+      Extended Community: Route-Target-AS:13:13 TunnelEncap:tunnelTypeVxlan
+      VNI: 13
+      PMSI Tunnel: Ingress Replication, MPLS Label: 13, Leaf Information Required: false, Tunnel ID: 10.1.1.1
+BGP routing table entry for imet 10.2.1.2, Route Distinguisher: 10.2.0.2:10
+ Paths: 1 available
+  Local
+    - from - (0.0.0.0)
+      Origin IGP, metric -, localpref -, weight 0, valid, local, best
+      Extended Community: Route-Target-AS:10:10 TunnelEncap:tunnelTypeVxlan
+      VNI: 10
+      PMSI Tunnel: Ingress Replication, MPLS Label: 10, Leaf Information Required: false, Tunnel ID: 10.2.1.2
+BGP routing table entry for imet 10.2.1.2, Route Distinguisher: 10.2.0.2:11
+ Paths: 1 available
+  Local
+    - from - (0.0.0.0)
+      Origin IGP, metric -, localpref -, weight 0, valid, local, best
+      Extended Community: Route-Target-AS:11:11 TunnelEncap:tunnelTypeVxlan
+      VNI: 11
+      PMSI Tunnel: Ingress Replication, MPLS Label: 11, Leaf Information Required: false, Tunnel ID: 10.2.1.2
+BGP routing table entry for imet 10.2.1.2, Route Distinguisher: 10.2.0.2:12
+ Paths: 1 available
+  Local
+    - from - (0.0.0.0)
+      Origin IGP, metric -, localpref -, weight 0, valid, local, best
+      Extended Community: Route-Target-AS:12:12 TunnelEncap:tunnelTypeVxlan
+      VNI: 12
+      PMSI Tunnel: Ingress Replication, MPLS Label: 12, Leaf Information Required: false, Tunnel ID: 10.2.1.2
+BGP routing table entry for imet 10.2.1.2, Route Distinguisher: 10.2.0.2:13
+ Paths: 1 available
+  Local
+    - from - (0.0.0.0)
+      Origin IGP, metric -, localpref -, weight 0, valid, local, best
+      Extended Community: Route-Target-AS:13:13 TunnelEncap:tunnelTypeVxlan
+      VNI: 13
+      PMSI Tunnel: Ingress Replication, MPLS Label: 13, Leaf Information Required: false, Tunnel ID: 10.2.1.2
