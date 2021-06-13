@@ -1,0 +1,110 @@
+Port       Name   Status       Vlan     Duplex Speed  Type         Flags Encapsulation
+Et1/1             disabled     1        full   10G    40GBASE-CR4                     
+Et1/2             disabled     1        full   10G    40GBASE-CR4                     
+Et1/3             disabled     1        full   10G    40GBASE-CR4                     
+Et1/4             disabled     1        full   10G    40GBASE-CR4                     
+Et2/1             disabled     1        full   10G    40GBASE-CR4                     
+Et2/2             disabled     1        full   10G    40GBASE-CR4                     
+Et2/3             disabled     1        full   10G    40GBASE-CR4                     
+Et2/4             disabled     1        full   10G    40GBASE-CR4                     
+Et3/1             disabled     1        full   10G    40GBASE-CR4                     
+Et3/2             disabled     1        full   10G    40GBASE-CR4                     
+Et3/3             disabled     1        full   10G    40GBASE-CR4                     
+Et3/4             disabled     1        full   10G    40GBASE-CR4                     
+Et4/1             disabled     1        full   10G    40GBASE-CR4                     
+Et4/2             disabled     1        full   10G    40GBASE-CR4                     
+Et4/3             disabled     1        full   10G    40GBASE-CR4                     
+Et4/4             disabled     1        full   10G    40GBASE-CR4                     
+Et5/1             disabled     1        full   10G    40GBASE-AR4                     
+Et5/2             disabled     1        full   10G    40GBASE-AR4                     
+Et5/3             disabled     1        full   10G    40GBASE-AR4                     
+Et5/4             disabled     1        full   10G    40GBASE-AR4                     
+Et6/1             disabled     1        full   10G    Not Present                     
+Et6/2             disabled     1        full   10G    Not Present                     
+Et6/3             disabled     1        full   10G    Not Present                     
+Et6/4             disabled     1        full   10G    Not Present                     
+Et7/1             disabled     1        full   10G    Not Present                     
+Et7/2             disabled     1        full   10G    Not Present                     
+Et7/3             disabled     1        full   10G    Not Present                     
+Et7/4             disabled     1        full   10G    Not Present                     
+Et8/1             disabled     1        full   10G    Not Present                     
+Et8/2             disabled     1        full   10G    Not Present                     
+Et8/3             disabled     1        full   10G    Not Present                     
+Et8/4             disabled     1        full   10G    Not Present                     
+Et9/1             disabled     1        full   10G    Not Present                     
+Et9/2             disabled     1        full   10G    Not Present                     
+Et9/3             disabled     1        full   10G    Not Present                     
+Et9/4             disabled     1        full   10G    Not Present                     
+Et10/1            disabled     1        full   10G    Not Present                     
+Et10/2            disabled     1        full   10G    Not Present                     
+Et10/3            disabled     1        full   10G    Not Present                     
+Et10/4            disabled     1        full   10G    Not Present                     
+Et11/1            disabled     1        full   10G    Not Present                     
+Et11/2            disabled     1        full   10G    Not Present                     
+Et11/3            disabled     1        full   10G    Not Present                     
+Et11/4            disabled     1        full   10G    Not Present                     
+Et12/1            disabled     1        full   10G    Not Present                     
+Et12/2            disabled     1        full   10G    Not Present                     
+Et12/3            disabled     1        full   10G    Not Present                     
+Et12/4            disabled     1        full   10G    Not Present                     
+Et13/1            disabled     1        full   10G    40GBASE-CR4                     
+Et13/2            disabled     1        full   10G    40GBASE-CR4                     
+Et13/3            disabled     1        full   10G    40GBASE-CR4                     
+Et13/4            disabled     1        full   10G    40GBASE-CR4                     
+Et14/1            disabled     1        full   10G    Not Present                     
+Et14/2            disabled     1        full   10G    Not Present                     
+Et14/3            disabled     1        full   10G    Not Present                     
+Et14/4            disabled     1        full   10G    Not Present                     
+Et15/1            disabled     1        full   10G    Not Present                     
+Et15/2            disabled     1        full   10G    Not Present                     
+Et15/3            disabled     1        full   10G    Not Present                     
+Et15/4            disabled     1        full   10G    Not Present                     
+Et16/1            disabled     1        full   10G    Not Present                     
+Et16/2            disabled     1        full   10G    Not Present                     
+Et16/3            disabled     1        full   10G    Not Present                     
+Et16/4            disabled     1        full   10G    Not Present                     
+Et17/1            disabled     1        full   10G    Not Present                     
+Et17/2            disabled     1        full   10G    Not Present                     
+Et17/3            disabled     1        full   10G    Not Present                     
+Et17/4            disabled     1        full   10G    Not Present                     
+Et18/1            disabled     1        full   10G    Not Present                     
+Et18/2            disabled     1        full   10G    Not Present                     
+Et18/3            disabled     1        full   10G    Not Present                     
+Et18/4            disabled     1        full   10G    Not Present                     
+Et19/1            disabled     1        full   10G    Not Present                     
+Et19/2            disabled     1        full   10G    Not Present                     
+Et19/3            disabled     1        full   10G    Not Present                     
+Et19/4            disabled     1        full   10G    Not Present                     
+Et20/1            disabled     1        full   10G    Not Present                     
+Et20/2            disabled     1        full   10G    Not Present                     
+Et20/3            disabled     1        full   10G    Not Present                     
+Et20/4            disabled     1        full   10G    Not Present                     
+Et21/1            disabled     1        full   10G    Not Present                     
+Et21/2            disabled     1        full   10G    Not Present                     
+Et21/3            disabled     1        full   10G    Not Present                     
+Et21/4            disabled     1        full   10G    Not Present                     
+Et22/1            disabled     1        full   10G    Not Present                     
+Et22/2            disabled     1        full   10G    Not Present                     
+Et22/3            disabled     1        full   10G    Not Present                     
+Et22/4            disabled     1        full   10G    Not Present                     
+Et23/1            disabled     1        full   10G    40GBASE-UNIV                    
+Et23/2            disabled     1        full   10G    40GBASE-UNIV                    
+Et23/3            disabled     1        full   10G    40GBASE-UNIV                    
+Et23/4            disabled     1        full   10G    40GBASE-UNIV                    
+Et24/1            disabled     1        full   10G    40GBASE-SR4                     
+Et24/2            disabled     1        full   10G    40GBASE-SR4                     
+Et24/3            disabled     1        full   10G    40GBASE-SR4                     
+Et24/4            disabled     1        full   10G    40GBASE-SR4                     
+Et25/1            disabled     1        full   100G   100GBASE-CR4                    
+Et26/1            disabled     1        full   100G   100GBASE-AR4                    
+Et27/1            connected    10       full   100G   100GBASE-AR4                    
+Et28/1            disabled     1        full   100G   100GBASE-AR4                    
+Et29/1            disabled     1        full   100G   100GBASE-AR4                    
+Et30/1            disabled     1        full   100G   Not Present                     
+Et31/1            disabled     1        full   100G   Not Present                     
+Et32/1            disabled     1        full   100G   Not Present                     
+Et33/1            disabled     1        full   100G   Not Present                     
+Et34/1            disabled     1        full   100G   Not Present                     
+Et35/1            disabled     1        full   100G   100GBASE-CR4                    
+Et36/1            disabled     1        full   100G   100GBASE-CR4                    
+Ma1               connected    routed   a-full a-1G   10/100/1000

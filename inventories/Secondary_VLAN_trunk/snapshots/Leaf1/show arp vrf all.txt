@@ -1,0 +1,8 @@
+VRF: default
+Address         Age (sec)  Hardware Addr   Interface
+172.16.0.1        1:01:25  985d.82b4.ccf5  Vlan10, not learned
+172.16.0.3        3:01:25  985d.82b4.ca61  Vlan10, not learned
+10.83.28.1        0:00:00  001b.1700.2011  Management1
+10.83.28.52       0:01:17  0011.326e.e2f0  Management1
+10.83.28.54       0:01:38  0050.5686.805a  Management1
+10.83.31.214      0:03:59  001b.1700.2011  Management1

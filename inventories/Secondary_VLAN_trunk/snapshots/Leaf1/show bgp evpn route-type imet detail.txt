@@ -1,0 +1,3 @@
+BGP is disabled for VRF default
+BGP routing table information for VRF default
+Router identifier 0.0.0.0, local AS number 0

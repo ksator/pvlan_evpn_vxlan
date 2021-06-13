@@ -1,0 +1,58 @@
+Port       Name   Status       Vlan     Duplex Speed  Type         Flags Encapsulation
+Et1               connected    trunk    full   10G    10GBASE-AR                      
+Et2               disabled     1        full   10G    10GBASE-AR                      
+Et3               disabled     1        full   10G    10GBASE-AR                      
+Et4               disabled     1        full   10G    10GBASE-AR                      
+Et5               disabled     1        full   10G    10GBASE-AR                      
+Et6               disabled     1        full   10G    10GBASE-AR                      
+Et7               disabled     1        full   10G    10GBASE-CR                      
+Et8               disabled     1        full   10G    10GBASE-CR                      
+Et9               disabled     1        full   25G    Not Present                     
+Et10              disabled     1        full   25G    Not Present                     
+Et11              disabled     1        full   25G    Not Present                     
+Et12              disabled     1        full   25G    Not Present                     
+Et13              disabled     1        full   25G    Not Present                     
+Et14              disabled     1        full   25G    Not Present                     
+Et15              disabled     1        full   25G    Not Present                     
+Et16              disabled     1        full   25G    Not Present                     
+Et17              disabled     1        full   25G    Not Present                     
+Et18              disabled     1        full   25G    Not Present                     
+Et19              disabled     1        full   25G    Not Present                     
+Et20              disabled     1        full   25G    Not Present                     
+Et21              disabled     1        full   25G    Not Present                     
+Et22              disabled     1        full   25G    Not Present                     
+Et23              disabled     1        full   25G    Not Present                     
+Et24              disabled     1        full   25G    Not Present                     
+Et25              disabled     1        full   25G    Not Present                     
+Et26              disabled     1        full   25G    Not Present                     
+Et27              disabled     1        full   25G    Not Present                     
+Et28              disabled     1        full   25G    Not Present                     
+Et29              disabled     1        full   25G    Not Present                     
+Et30              disabled     1        full   25G    Not Present                     
+Et31              disabled     1        full   25G    Not Present                     
+Et32              disabled     1        full   25G    Not Present                     
+Et33              disabled     1        full   25G    Not Present                     
+Et34              disabled     1        full   25G    Not Present                     
+Et35              disabled     1        full   25G    Not Present                     
+Et36              disabled     1        full   25G    Not Present                     
+Et37              disabled     1        full   25G    Not Present                     
+Et38              disabled     1        full   25G    Not Present                     
+Et39              disabled     1        full   25G    Not Present                     
+Et40              disabled     1        full   25G    Not Present                     
+Et41              disabled     1        full   25G    Not Present                     
+Et42              disabled     1        full   25G    Not Present                     
+Et43              disabled     1        full   25G    Not Present                     
+Et44              disabled     1        full   25G    Not Present                     
+Et45              disabled     1        full   25G    Not Present                     
+Et46              disabled     1        full   25G    Not Present                     
+Et47              disabled     1        full   25G    Not Present                     
+Et48              disabled     1        full   25G    25GBASE-CR                      
+Et49/1            disabled     1        full   100G   100GBASE-AR4                    
+Et50/1            disabled     1        full   100G   Not Present                     
+Et51/1            disabled     1        full   100G   Not Present                     
+Et52/1            disabled     1        full   100G   Not Present                     
+Et53/1            connected    10       full   100G   100GBASE-AR4                    
+Et54/1            disabled     1        full   100G   100GBASE-AR4                    
+Et55/1            disabled     1        full   100G   100GBASE-AR4                    
+Et56/1            disabled     1        full   100G   100GBASE-AR4                    
+Ma1               connected    routed   a-full a-1G   10/100/1000

@@ -1,0 +1,5 @@
+Primary Secondary Type        Ports
+------- --------- ----------- -------------------------------
+10      12        community   Cpu, Et1, Et53/1
+10      13        community   Cpu, Et1, Et53/1
+10      11        community   Cpu, Et1, Et53/1

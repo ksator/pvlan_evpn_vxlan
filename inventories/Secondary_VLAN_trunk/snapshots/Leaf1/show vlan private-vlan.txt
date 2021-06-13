@@ -1,0 +1,3 @@
+Primary Secondary Type        Ports
+------- --------- ----------- -------------------------------
+10      13        community   Cpu, Et33
