@@ -14,7 +14,7 @@ EVPN-VXLAN:
 - Overlay: EBGP (Lo0)
 - VXLAN: Lo1
 
-Here's the lab [inventory](inventories/lab/inventory.ini)
+Here's the lab [inventory](inventories)
 
 2 VTEP:
 - s70512 (Leaf2)
