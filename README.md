@@ -1,5 +1,5 @@
 This repository has:
-- PVLANs accross EVPN-VXLAN [technical presentation](PVLAN_EVPN_VXLAN.pptx)
+- PVLANs accross EVPN-VXLAN [technical presentation](PVLAN_EVPN_VXLAN.pdf)
 - PVLANs accross EVPN-VXLAN configuration details and show commands output for EOS devices for diff labs:
   - [pvlan_accross_evpn_vxlan](inventories/pvlan_accross_evpn_vxlan)
   - [Secondary_VLAN_trunk](inventories/Secondary_VLAN_trunk)
